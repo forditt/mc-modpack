@@ -16,7 +16,7 @@
 -  	[CIT Resewn](https://modrinth.com/mod/cit-resewn) - Custom Item Textures allowed resourcepacks to replace the appearance of items when they met certain conditions.
 -  	[Kappa](https://modrinth.com/mod/kappa) - Adds OptiFine capes to Sodium.
 -   [Chunks Fade In](https://modrinth.com/mod/chunks-fade-in) - Adds fade-in animation for chunks.
-### Improvements
+### Improvement
 -  	[Better Mount HUD](https://modrinth.com/mod/better-mount-hud) - Improves the ingame HUD while riding a mount.
 -  	[Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining/files/4442859) - Changes the fullscreen option to use a borderless window that fills the screen.
 -  	[CleanF3](https://modrinth.com/mod/clean-f3) - Removes useless information from the debug screen.
@@ -25,7 +25,7 @@
 -  	[Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard) - Screenshots taken are copied to the clipboard.
 -  	[No Chat Reports](https://modrinth.com/mod/no-chat-reports) - This mod strips cryptographic signatures that since 1.19 are attached to every message sent in the chat.
 -   [ShulkerBoxTooltip](https://modrinth.com/mod/shulkerboxtooltip) - View the contents of shulker boxes from your inventory.
-### Others
+### Other
 -  	[Mod Menu](https://modrinth.com/mod/modmenu) - Adds a mod menu to view the list of mods you have installed.
 -   [Simple Discord RPC](https://www.curseforge.com/minecraft/mc-mods/simple-discord-rpc) - Allows you to display what you are doing in Minecraft on your Discord Status.
 ### Api and Lib
