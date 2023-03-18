@@ -1,4 +1,4 @@
-## My Minecraft Modpack
+## My Minecraft 1.19+ Modpack 
 ### Optimization
 -  	[Sodium](https://modrinth.com/mod/sodium)
 -  	[Sodium Extra](https://modrinth.com/mod/sodium-extra)
