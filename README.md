@@ -7,13 +7,13 @@
 -  	[Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) - Optimizes leaf layers.
 -  	[LazyDFU](https://modrinth.com/mod/lazydfu) - Makes the game boot faster by deferring non-essential initialization.
 -  	[Smooth Boot](https://modrinth.com/mod/smoothboot-fabric) - Improve Minecraft CPU scheduling.
--  	[Exordium](https://modrinth.com/mod/exordium) - Render the GUI and screens at a lower framerate to speed up what's really important: the worldrendering.
+-  	[Exordium](https://modrinth.com/mod/exordium) - Render the GUI and screens at a lower framerate.
 -  	[Fastload](https://modrinth.com/mod/fastload) - Fastload is a simple mod that reduces world loading time.
 ### Cosmetic
 -  	[Ambient Environment](https://www.curseforge.com/minecraft/mc-mods/ambient-environment/files) - This mod adds ambient color noise to the biome colors of the game.
 -  	[Shadowy Path Blocks](https://modrinth.com/mod/sodium-shadowy-path-blocks) - Reintroduces vanilla-like smooth lighting to non-full blocks.
 -  	[Continuity](https://modrinth.com/mod/continuity) - Mod that allows for efficient connected textures.
--  	[CIT Resewn](https://modrinth.com/mod/cit-resewn) - Custom Item Textures allowed resourcepacks to replace the appearance of items when they met certain conditions.
+-  	[CIT Resewn](https://modrinth.com/mod/cit-resewn) - Re-implements MCPatcher's CIT, custom item textures from optifine resource packs.
 -  	[Kappa](https://modrinth.com/mod/kappa) - Adds OptiFine capes to Sodium.
 -   [Chunks Fade In](https://modrinth.com/mod/chunks-fade-in) - Adds fade-in animation for chunks.
 ### Improvement
@@ -23,7 +23,7 @@
 -  	[ClickThrough](https://modrinth.com/mod/clickthrough) - This mod helps you access containers that are marked with a sign or item frame. 
 -  	[Don't Clear Chat History](https://modrinth.com/mod/dcch) - Doesn't clear the messages you've sent from up arrow on disconnect/relog.
 -  	[Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard) - Screenshots taken are copied to the clipboard.
--  	[No Chat Reports](https://modrinth.com/mod/no-chat-reports) - This mod strips cryptographic signatures that since 1.19 are attached to every message sent in the chat.
+-  	[No Chat Reports](https://modrinth.com/mod/no-chat-reports) - Strips cryptographic signatures that are attached to every message sent in the chat.
 -   [ShulkerBoxTooltip](https://modrinth.com/mod/shulkerboxtooltip) - View the contents of shulker boxes from your inventory.
 ### Other
 -  	[Mod Menu](https://modrinth.com/mod/modmenu) - Adds a mod menu to view the list of mods you have installed.
