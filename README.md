@@ -9,7 +9,7 @@
 -  	[Smooth Boot](https://modrinth.com/mod/smoothboot-fabric) - Improve Minecraft CPU scheduling.
 -  	[Exordium](https://modrinth.com/mod/exordium) - Render the GUI and screens at a lower framerate to speed up what's really important: the worldrendering.
 -  	[Fastload](https://modrinth.com/mod/fastload) - Fastload is a simple mod that reduces world loading time.
-### Visual
+### Cosmetic
 -  	[Ambient Environment](https://www.curseforge.com/minecraft/mc-mods/ambient-environment/files) - This mod adds ambient color noise to the biome colors of the game.
 -  	[Shadowy Path Blocks](https://modrinth.com/mod/sodium-shadowy-path-blocks) - Reintroduces vanilla-like smooth lighting to non-full blocks.
 -  	[Continuity](https://modrinth.com/mod/continuity) - Mod that allows for efficient connected textures.
