@@ -1,4 +1,4 @@
-## My Minecraft 1.19+ Modpack 
+## my Minecraft 1.19+ modpack 
 ### Optimization
 -  	[Sodium](https://modrinth.com/mod/sodium) - Modern rendering engine and client-side optimization mod for Minecraft.
 -  	[Sodium Extra](https://modrinth.com/mod/sodium-extra) - Functions that are necessary for Sodium.
