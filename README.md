@@ -11,11 +11,11 @@
 -  	[Fastload](https://modrinth.com/mod/fastload) - Fastload is a simple mod that reduces world loading time.
 ### Cosmetic
 -  	[Ambient Environment](https://www.curseforge.com/minecraft/mc-mods/ambient-environment/files) - This mod adds ambient color noise to the biome colors of the game.
+-   [Chunks Fade In](https://modrinth.com/mod/chunks-fade-in) - Adds fade-in animation for chunks.
 -  	[Shadowy Path Blocks](https://modrinth.com/mod/sodium-shadowy-path-blocks) - Reintroduces vanilla-like smooth lighting to non-full blocks.
 -  	[Continuity](https://modrinth.com/mod/continuity) - Mod that allows for efficient connected textures.
 -  	[CIT Resewn](https://modrinth.com/mod/cit-resewn) - Re-implements MCPatcher's CIT, custom item textures from optifine resource packs.
 -  	[Kappa](https://modrinth.com/mod/kappa) - Adds OptiFine capes to Sodium.
--   [Chunks Fade In](https://modrinth.com/mod/chunks-fade-in) - Adds fade-in animation for chunks.
 ### Improvement
 -  	[Better Mount HUD](https://modrinth.com/mod/better-mount-hud) - Improves the ingame HUD while riding a mount.
 -  	[Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining/files/4442859) - Changes the fullscreen option to use a borderless window that fills the screen.
