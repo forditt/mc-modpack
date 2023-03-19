@@ -27,7 +27,7 @@
 -   [ShulkerBoxTooltip](https://modrinth.com/mod/shulkerboxtooltip) - View the contents of shulker boxes from your inventory.
 ### Other
 -  	[Mod Menu](https://modrinth.com/mod/modmenu) - Adds a mod menu to view the list of mods you have installed.
--   [Simple Discord RPC](https://www.curseforge.com/minecraft/mc-mods/simple-discord-rpc) - Allows you to display what you are doing in Minecraft on your Discord Status.
+-   [Simple Discord RPC](https://modrinth.com/mod/simple-discord-rpc) - Allows you to display what you are doing in Minecraft on your Discord Status.
 -   [Plasmo Voice](https://modrinth.com/plugin/plasmo-voice) - A proximity voice chat mod with audio positioning and lots of features.
 ### Api and Lib
 -  	[Fabric API](https://modrinth.com/mod/fabric-api) - Essential hooks for modding with Fabric.
