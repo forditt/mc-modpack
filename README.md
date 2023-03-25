@@ -16,7 +16,7 @@
 -  	[Kappa](https://modrinth.com/mod/kappa) - Adds OptiFine capes to Sodium.
 ### Improvement
 -  	[Better Mount HUD](https://modrinth.com/mod/better-mount-hud) - Improves the ingame HUD while riding a mount.
--  	[Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining/files/4442859) - Changes the fullscreen option to use a borderless window that fills the screen.
+-  	[Borderless Mining](https://modrinth.com/mod/borderless-mining) - Changes the fullscreen option to use a borderless window that fills the screen.
 -  	[CleanF3](https://modrinth.com/mod/clean-f3) - Removes useless information from the debug screen.
 -  	[ClickThrough](https://modrinth.com/mod/clickthrough) - This mod helps you access containers that are marked with a sign or item frame. 
 -  	[Don't Clear Chat History](https://modrinth.com/mod/dcch) - Doesn't clear the messages you've sent from up arrow on disconnect/relog.
