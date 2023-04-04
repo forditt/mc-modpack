@@ -15,7 +15,6 @@
 -  	[CIT Resewn](https://modrinth.com/mod/cit-resewn) - Re-implements MCPatcher's CIT, custom item textures from optifine resource packs.
 -  	[Kappa](https://modrinth.com/mod/kappa) - Adds OptiFine capes to Sodium.
 ### Improvement
--  	[Better Mount HUD](https://modrinth.com/mod/better-mount-hud) - Improves the ingame HUD while riding a mount.
 -  	[Borderless Mining](https://modrinth.com/mod/borderless-mining) - Changes the fullscreen option to use a borderless window that fills the screen.
 -  	[CleanF3](https://modrinth.com/mod/clean-f3) - Removes useless information from the debug screen.
 -  	[ClickThrough](https://modrinth.com/mod/clickthrough) - This mod helps you access containers that are marked with a sign or item frame. 
