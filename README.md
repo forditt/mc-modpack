@@ -4,7 +4,6 @@
 -  	[Sodium Extra](https://modrinth.com/mod/sodium-extra) - Functions that are necessary for Sodium.
 -  	[Starlight](https://modrinth.com/mod/starlight) - Rewrites the light engine to fix lighting performance and lighting errors.
 -  	[Lithium](https://modrinth.com/mod/lithium) - Optimizes game physics, mob AI, block ticking, etc.
--  	[Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) - Optimizes leaf layers.
 -  	[LazyDFU](https://modrinth.com/mod/lazydfu) - Makes the game boot faster by deferring non-essential initialization.
 -  	[Smooth Boot](https://modrinth.com/mod/smoothboot-fabric) - Improve Minecraft CPU scheduling.
 -  	[Exordium](https://modrinth.com/mod/exordium) - Render the GUI and screens at a lower framerate.
@@ -30,5 +29,4 @@
 -   [Plasmo Voice](https://modrinth.com/plugin/plasmo-voice) - A proximity voice chat mod with audio positioning and lots of features.
 ### Api and Lib
 -  	[Fabric API](https://modrinth.com/mod/fabric-api) - Essential hooks for modding with Fabric.
--  	[YetAnotherConfigLib](https://modrinth.com/mod/yacl) - A builder-based configuration library for Minecraft.
 -  	[Indium](https://modrinth.com/mod/indium) - Sodium addon providing support for the Fabric Rendering API, based on Indigo.
