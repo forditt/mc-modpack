@@ -24,7 +24,7 @@
 ### Other
 -  	[Mod Menu](https://modrinth.com/mod/modmenu) - Adds a mod menu to view the list of mods you have installed.
 -  	[Sodium Shadowy Path Blocks](https://modrinth.com/mod/sodium-shadowy-path-blocks) - Reintroduces vanilla-like smooth lighting to non-full blocks.
--  	[Xander's Sodium Options](https://modrinth.com/mod/xanders-sodium-options) - Replaces Sodium Options with a Minecraft-style alternative.
+-  	[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) - Alternative Options Menu for Sodium.
 -   [Simple Discord RPC](https://modrinth.com/mod/simple-discord-rpc) - Allows you to display what you are doing in Minecraft on your Discord Status.
 -   [Plasmo Voice](https://modrinth.com/plugin/plasmo-voice) - A proximity voice chat mod with audio positioning and lots of features.
 ### Api and Lib
