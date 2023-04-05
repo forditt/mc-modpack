@@ -19,13 +19,13 @@
 -  	[Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard) - Screenshots taken are copied to the clipboard.
 -  	[No Chat Reports](https://modrinth.com/mod/no-chat-reports) - Strips cryptographic signatures that are attached to every message sent in the chat.
 -   [ShulkerBoxTooltip](https://modrinth.com/mod/shulkerboxtooltip) - View the contents of shulker boxes from your inventory.
--  	[Mod Menu](https://modrinth.com/mod/modmenu) - Adds a mod menu to view the list of mods you have installed.
 -   [Simple Discord RPC](https://modrinth.com/mod/simple-discord-rpc) - Allows you to display what you are doing in Minecraft on your Discord Status.
 -   [Plasmo Voice](https://modrinth.com/plugin/plasmo-voice) - A proximity voice chat mod with audio positioning and lots of features.
 ### Optifine Functionality
 -  	[Continuity](https://modrinth.com/mod/continuity) - Mod that allows for efficient connected textures.
 -  	[CIT Resewn](https://modrinth.com/mod/cit-resewn) - Re-implements MCPatcher's CIT, custom item textures from optifine resource packs.
 -  	[Kappa](https://modrinth.com/mod/kappa) - Adds OptiFine capes to Sodium.
-### Api and Lib
+### Api and Others
+-  	[Mod Menu](https://modrinth.com/mod/modmenu) - Adds a mod menu to view the list of mods you have installed.
 -  	[Fabric API](https://modrinth.com/mod/fabric-api) - Essential hooks for modding with Fabric.
 -  	[Indium](https://modrinth.com/mod/indium) - Sodium addon providing support for the Fabric Rendering API, based on Indigo.
