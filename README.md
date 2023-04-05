@@ -8,6 +8,8 @@
 -  	[Smooth Boot](https://modrinth.com/mod/smoothboot-fabric) - Improve Minecraft CPU scheduling.
 -  	[Exordium](https://modrinth.com/mod/exordium) - Render the GUI and screens at a lower framerate.
 -  	[Fastload](https://modrinth.com/mod/fastload) - Fastload is a simple mod that reduces world loading time.
+-  	[Sodium Shadowy Path Blocks](https://modrinth.com/mod/sodium-shadowy-path-blocks) - Reintroduces vanilla-like smooth lighting to non-full blocks.
+-  	[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) - Alternative Options Menu for Sodium.
 ### Improvement
 -  	[Ambient Environment](https://www.curseforge.com/minecraft/mc-mods/ambient-environment/files) - This mod adds ambient color noise to the biome colors of the game.
 -  	[Borderless Mining](https://modrinth.com/mod/borderless-mining) - Changes the fullscreen option to use a borderless window that fills the screen.
@@ -18,8 +20,6 @@
 -  	[No Chat Reports](https://modrinth.com/mod/no-chat-reports) - Strips cryptographic signatures that are attached to every message sent in the chat.
 -   [ShulkerBoxTooltip](https://modrinth.com/mod/shulkerboxtooltip) - View the contents of shulker boxes from your inventory.
 -  	[Kappa](https://modrinth.com/mod/kappa) - Adds OptiFine capes to Sodium.
--  	[Sodium Shadowy Path Blocks](https://modrinth.com/mod/sodium-shadowy-path-blocks) - Reintroduces vanilla-like smooth lighting to non-full blocks.
--  	[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) - Alternative Options Menu for Sodium.
 -  	[Mod Menu](https://modrinth.com/mod/modmenu) - Adds a mod menu to view the list of mods you have installed.
 -   [Simple Discord RPC](https://modrinth.com/mod/simple-discord-rpc) - Allows you to display what you are doing in Minecraft on your Discord Status.
 -   [Plasmo Voice](https://modrinth.com/plugin/plasmo-voice) - A proximity voice chat mod with audio positioning and lots of features.
