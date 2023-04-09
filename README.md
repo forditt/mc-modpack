@@ -8,6 +8,8 @@
 -  	[Smooth Boot](https://modrinth.com/mod/smoothboot-fabric) - Improve Minecraft CPU scheduling.
 -  	[Exordium](https://modrinth.com/mod/exordium) - Render the GUI and screens at a lower framerate.
 -  	[Fastload](https://modrinth.com/mod/fastload) - Fastload is a simple mod that reduces world loading time.
+-  	[EntityCulling](https://modrinth.com/mod/entityculling) - Using async path-tracing to skip rendering Block/Entities that are not visible.
+-   [FerriteCore](https://modrinth.com/mod/ferrite-core) - Memory usage optimizations.
 -  	[Sodium Shadowy Path Blocks](https://modrinth.com/mod/sodium-shadowy-path-blocks) - Reintroduces vanilla-like smooth lighting to non-full blocks.
 -  	[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) - Alternative Options Menu for Sodium.
 ### Improvement
