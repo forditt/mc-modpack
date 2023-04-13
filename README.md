@@ -6,7 +6,8 @@
 -  	[Lithium](https://modrinth.com/mod/lithium) - Optimizes game physics, mob AI, block ticking, etc.
 -  	[LazyDFU](https://modrinth.com/mod/lazydfu) - Makes the game boot faster by deferring non-essential initialization.
 -  	[Smooth Boot](https://modrinth.com/mod/smoothboot-fabric) - Improve Minecraft CPU scheduling.
--  	[Fastload](https://modrinth.com/mod/fastload) - Fastload is a simple mod that reduces world loading time.
+-   [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) - Speed up immediate mode rendering in Minecraft.
+-   [More Culling](https://modrinth.com/mod/moreculling) - Changes how multiple types of culling are handled in order to improve performance.
 -  	[EntityCulling](https://modrinth.com/mod/entityculling) - Using async path-tracing to skip rendering Block/Entities that are not visible.
 -   [FerriteCore](https://modrinth.com/mod/ferrite-core) - Memory usage optimizations.
 -  	[Sodium Shadowy Path Blocks](https://modrinth.com/mod/sodium-shadowy-path-blocks) - Reintroduces vanilla-like smooth lighting to non-full blocks.
