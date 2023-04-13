@@ -1,4 +1,4 @@
-## My Minecraft 1.19+ Modpack 
+## My Minecraft Modpack 
 ### Optimization
 -  	[Sodium](https://modrinth.com/mod/sodium) - Modern rendering engine and client-side optimization mod for Minecraft.
 -  	[Sodium Extra](https://modrinth.com/mod/sodium-extra) - Functions that are necessary for Sodium.
@@ -10,11 +10,13 @@
 -   [More Culling](https://modrinth.com/mod/moreculling) - Changes how multiple types of culling are handled in order to improve performance.
 -  	[EntityCulling](https://modrinth.com/mod/entityculling) - Using async path-tracing to skip rendering Block/Entities that are not visible.
 -   [FerriteCore](https://modrinth.com/mod/ferrite-core) - Memory usage optimizations.
+-   [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) - Fixes random memory leaks for both the client and server.
 -  	[Sodium Shadowy Path Blocks](https://modrinth.com/mod/sodium-shadowy-path-blocks) - Reintroduces vanilla-like smooth lighting to non-full blocks.
 -  	[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) - Alternative Options Menu for Sodium.
 ### Improvement
 -  	[Ambient Environment](https://www.curseforge.com/minecraft/mc-mods/ambient-environment/files) - This mod adds ambient color noise to the biome colors of the game.
 -  	[Borderless Mining](https://modrinth.com/mod/borderless-mining) - Changes the fullscreen option to use a borderless window that fills the screen.
+-   [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) - Improves the ingame HUD while riding a mount.
 -  	[CleanF3](https://modrinth.com/mod/clean-f3) - Removes useless information from the debug screen.
 -  	[ClickThrough](https://modrinth.com/mod/clickthrough) - This mod helps you access containers that are marked with a sign or item frame. 
 -  	[Don't Clear Chat History](https://modrinth.com/mod/dcch) - Doesn't clear the messages you've sent from up arrow on disconnect/relog.
