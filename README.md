@@ -6,6 +6,7 @@
 -  	[Lithium](https://modrinth.com/mod/lithium) - Optimizes game physics, mob AI, block ticking, etc.
 -  	[LazyDFU](https://modrinth.com/mod/lazydfu) - Makes the game boot faster by deferring non-essential initialization.
 -  	[Smooth Boot](https://modrinth.com/mod/smoothboot-fabric) - Improve Minecraft CPU scheduling.
+-   [FastQuit](https://modrinth.com/mod/fastquit) - Lets you return to the Title Screen early.
 -   [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) - Speed up immediate mode rendering in Minecraft.
 -   [More Culling](https://modrinth.com/mod/moreculling) - Changes how multiple types of culling are handled in order to improve performance.
 -  	[EntityCulling](https://modrinth.com/mod/entityculling) - Using async path-tracing to skip rendering Block/Entities that are not visible.
@@ -16,10 +17,12 @@
 ### Improvement
 -  	[Ambient Environment](https://www.curseforge.com/minecraft/mc-mods/ambient-environment/files) - This mod adds ambient color noise to the biome colors of the game.
 -  	[Borderless Mining](https://modrinth.com/mod/borderless-mining) - Changes the fullscreen option to use a borderless window that fills the screen.
+-  	[Model Gap Fix](https://modrinth.com/mod/modelfix) - Fixes gaps in Block Models and Item Models.
 -   [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) - Improves the ingame HUD while riding a mount.
 -  	[CleanF3](https://modrinth.com/mod/clean-f3) - Removes useless information from the debug screen.
 -  	[ClickThrough](https://modrinth.com/mod/clickthrough) - This mod helps you access containers that are marked with a sign or item frame. 
 -  	[Don't Clear Chat History](https://modrinth.com/mod/dcch) - Doesn't clear the messages you've sent from up arrow on disconnect/relog.
+-  	[MoreChatHistory](https://modrinth.com/mod/morechathistory) - Increases the maximum length of chat history.
 -  	[Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard) - Screenshots taken are copied to the clipboard.
 -  	[No Chat Reports](https://modrinth.com/mod/no-chat-reports) - Strips cryptographic signatures that are attached to every message sent in the chat.
 -   [ShulkerBoxTooltip](https://modrinth.com/mod/shulkerboxtooltip) - View the contents of shulker boxes from your inventory.
