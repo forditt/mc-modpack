@@ -11,7 +11,6 @@
 -   [More Culling](https://modrinth.com/mod/moreculling) - Changes how multiple types of culling are handled in order to improve performance.
 -  	[EntityCulling](https://modrinth.com/mod/entityculling) - Using async path-tracing to skip rendering Block/Entities that are not visible.
 -   [FerriteCore](https://modrinth.com/mod/ferrite-core) - Memory usage optimizations.
--   [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) - Fixes random memory leaks for both the client and server.
 -  	[Sodium Shadowy Path Blocks](https://modrinth.com/mod/sodium-shadowy-path-blocks) - Reintroduces vanilla-like smooth lighting to non-full blocks.
 -  	[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) - Alternative Options Menu for Sodium.
 ### Improvement
