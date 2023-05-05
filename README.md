@@ -13,7 +13,6 @@
 -  	[Sodium Shadowy Path Blocks](https://modrinth.com/mod/sodium-shadowy-path-blocks) - Reintroduces vanilla-like smooth lighting to non-full blocks.
 -  	[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) - Alternative Options Menu for Sodium.
 ### Improvement
--  	[Ambient Environment](https://www.curseforge.com/minecraft/mc-mods/ambient-environment/files) - This mod adds ambient color noise to the biome colors of the game.
 -  	[Borderless Mining](https://modrinth.com/mod/borderless-mining) - Changes the fullscreen option to use a borderless window that fills the screen.
 -  	[Model Gap Fix](https://modrinth.com/mod/modelfix) - Fixes gaps in Block Models and Item Models.
 -   [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) - Improves the ingame HUD while riding a mount.
