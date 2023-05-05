@@ -22,7 +22,6 @@
 -  	[Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard) - Screenshots taken are copied to the clipboard.
 -  	[No Chat Reports](https://modrinth.com/mod/no-chat-reports) - Strips cryptographic signatures that are attached to every message sent in the chat.
 -   [ShulkerBoxTooltip](https://modrinth.com/mod/shulkerboxtooltip) - View the contents of shulker boxes from your inventory.
--   [Simple Discord RPC](https://modrinth.com/mod/simple-discord-rpc) - Allows you to display what you are doing in Minecraft on your Discord Status.
 -   [Plasmo Voice](https://modrinth.com/plugin/plasmo-voice) - A proximity voice chat mod with audio positioning and lots of features.
 ### Optifine Functionality
 -  	[Continuity](https://modrinth.com/mod/continuity) - Mod that allows for efficient connected textures.
