@@ -8,7 +8,9 @@
 -  	[Smooth Boot](https://modrinth.com/mod/smoothboot-fabric) - Improve Minecraft CPU scheduling.
 -   [FastQuit](https://modrinth.com/mod/fastquit) - Lets you return to the Title Screen early.
 -   [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) - Speed up immediate mode rendering in Minecraft.
+-   [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) - Fixes random memory leaks.
 -  	[EntityCulling](https://modrinth.com/mod/entityculling) - Using async path-tracing to skip rendering Block/Entities that are not visible.
+-   [ForgetMeChunk](https://modrinth.com/mod/forgetmechunk) - Prevents light map unloads on the client.
 -   [FerriteCore](https://modrinth.com/mod/ferrite-core) - Memory usage optimizations.
 -  	[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) - Alternative Options Menu for Sodium.
 ### Improvement
