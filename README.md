@@ -7,10 +7,11 @@
 -  	[LazyDFU](https://modrinth.com/mod/lazydfu) - Makes the game boot faster by deferring non-essential initialization.
 -  	[Smooth Boot](https://modrinth.com/mod/smoothboot-fabric) - Improve Minecraft CPU scheduling.
 -   [FastQuit](https://modrinth.com/mod/fastquit) - Lets you return to the Title Screen early.
+-   [C2ME](https://modrinth.com/mod/c2me-fabric) - Designed to improve the chunk performance of Minecraft.
 -   [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) - Speed up immediate mode rendering in Minecraft.
 -   [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) - Fixes random memory leaks.
 -  	[EntityCulling](https://modrinth.com/mod/entityculling) - Using async path-tracing to skip rendering Block/Entities that are not visible.
--   [ForgetMeChunk](https://modrinth.com/mod/forgetmechunk) - Prevents light map unloads on the client.
+-   [More Culling](https://modrinth.com/mod/moreculling) - Changes how multiple types of culling are handled in order to improve performance.
 -   [FerriteCore](https://modrinth.com/mod/ferrite-core) - Memory usage optimizations.
 -   [Very Many Players](https://modrinth.com/mod/vmp-fabric) - Designed to improve performance at high playercounts.
 -  	[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) - Alternative Options Menu for Sodium.
