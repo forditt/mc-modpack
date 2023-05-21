@@ -12,6 +12,7 @@
 -  	[EntityCulling](https://modrinth.com/mod/entityculling) - Using async path-tracing to skip rendering Block/Entities that are not visible.
 -   [ForgetMeChunk](https://modrinth.com/mod/forgetmechunk) - Prevents light map unloads on the client.
 -   [FerriteCore](https://modrinth.com/mod/ferrite-core) - Memory usage optimizations.
+-   [Very Many Players](https://modrinth.com/mod/vmp-fabric) - Designed to improve performance at high playercounts.
 -  	[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) - Alternative Options Menu for Sodium.
 ### Improvement
 -  	[Borderless Mining](https://modrinth.com/mod/borderless-mining) - Changes the fullscreen option to use a borderless window that fills the screen.
