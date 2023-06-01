@@ -35,4 +35,5 @@
 ### Api and Others
 -  	[Mod Menu](https://modrinth.com/mod/modmenu) - Adds a mod menu to view the list of mods you have installed.
 -  	[Fabric API](https://modrinth.com/mod/fabric-api) - Essential hooks for modding with Fabric.
+-  	[MidnightLib](https://modrinth.com/mod/midnightlib) - Common library with a built-in configuration system.
 -  	[Indium](https://modrinth.com/mod/indium) - Sodium addon providing support for the Fabric Rendering API, based on Indigo.
