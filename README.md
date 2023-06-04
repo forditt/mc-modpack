@@ -26,6 +26,7 @@
 -  	[Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard) - Screenshots taken are copied to the clipboard.
 -  	[No Chat Reports](https://modrinth.com/mod/no-chat-reports) - Strips cryptographic signatures that are attached to every message sent in the chat.
 -   [ShulkerBoxTooltip](https://modrinth.com/mod/shulkerboxtooltip) - View the contents of shulker boxes from your inventory.
+-   [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica) - New schematic mod written from scratch.
 -   [Plasmo Voice](https://modrinth.com/plugin/plasmo-voice) - A proximity voice chat mod with audio positioning and lots of features.
 -   [ViaFabric](https://modrinth.com/mod/viafabric) - Allows to connect to older servers with older versions.
 ### Optifine Functionality
@@ -36,4 +37,5 @@
 -  	[Mod Menu](https://modrinth.com/mod/modmenu) - Adds a mod menu to view the list of mods you have installed.
 -  	[Fabric API](https://modrinth.com/mod/fabric-api) - Essential hooks for modding with Fabric.
 -  	[MidnightLib](https://modrinth.com/mod/midnightlib) - Common library with a built-in configuration system.
+-   [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) - Containing shared code for masa's client-side mods.
 -  	[Indium](https://modrinth.com/mod/indium) - Sodium addon providing support for the Fabric Rendering API, based on Indigo.
