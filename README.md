@@ -13,7 +13,6 @@
 -  	[EntityCulling](https://modrinth.com/mod/entityculling) - Using async path-tracing to skip rendering Block/Entities that are not visible.
 -   [More Culling](https://modrinth.com/mod/moreculling) - Changes how multiple types of culling are handled in order to improve performance.
 -   [FerriteCore](https://modrinth.com/mod/ferrite-core) - Memory usage optimizations.
--   [Krypton](https://modrinth.com/mod/krypton/version/0.2.3) - Optimize the networking stack.
 -   [Very Many Players](https://modrinth.com/mod/vmp-fabric) - Designed to improve performance at high playercounts.
 ### Improvement
 -  	[Borderless Mining](https://modrinth.com/mod/borderless-mining) - Changes the fullscreen option to use a borderless window that fills the screen.
