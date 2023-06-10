@@ -15,9 +15,9 @@
 -   [FerriteCore](https://modrinth.com/mod/ferrite-core) - Memory usage optimizations.
 -   [Krypton](https://modrinth.com/mod/krypton/version/0.2.3) - Optimize the networking stack.
 -   [Very Many Players](https://modrinth.com/mod/vmp-fabric) - Designed to improve performance at high playercounts.
--  	[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) - Alternative Options Menu for Sodium.
 ### Improvement
 -  	[Borderless Mining](https://modrinth.com/mod/borderless-mining) - Changes the fullscreen option to use a borderless window that fills the screen.
+-  	[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) - Alternative Options Menu for Sodium.
 -  	[Model Gap Fix](https://modrinth.com/mod/modelfix) - Fixes gaps in Block Models and Item Models.
 -   [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) - Improves the ingame HUD while riding a mount.
 -  	[CleanF3](https://modrinth.com/mod/clean-f3) - Removes useless information from the debug screen.
