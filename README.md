@@ -6,7 +6,6 @@
 -  	[Lithium](https://modrinth.com/mod/lithium) - Optimizes game physics, mob AI, block ticking, etc.
 -  	[LazyDFU](https://modrinth.com/mod/lazydfu) - Makes the game boot faster by deferring non-essential initialization.
 -  	[Smooth Boot](https://modrinth.com/mod/smoothboot-fabric) - Improve Minecraft CPU scheduling.
--   [FastQuit](https://modrinth.com/mod/fastquit) - Lets you return to the Title Screen early.
 -   [C2ME](https://modrinth.com/mod/c2me-fabric) - Designed to improve the chunk performance of Minecraft.
 -   [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) - Speed up immediate mode rendering in Minecraft.
 -   [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) - Fixes random memory leaks.
