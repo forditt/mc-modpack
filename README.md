@@ -32,6 +32,7 @@
 ### Optifine Functionality
 -  	[Continuity](https://modrinth.com/mod/continuity) - Mod that allows for efficient connected textures.
 -  	[CIT Resewn](https://modrinth.com/mod/cit-resewn) - Re-implements MCPatcher's CIT, custom item textures from optifine resource packs.
+-   [Iris Shaders](https://modrinth.com/mod/iris) - A modern shaders mod.
 -  	[Kappa](https://modrinth.com/mod/kappa) - Adds OptiFine capes to Sodium.
 ### Api and Others
 -  	[Mod Menu](https://modrinth.com/mod/modmenu) - Adds a mod menu to view the list of mods you have installed.
