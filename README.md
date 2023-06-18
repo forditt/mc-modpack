@@ -19,7 +19,7 @@
 -  	[Model Gap Fix](https://modrinth.com/mod/modelfix) - Fixes gaps in Block Models and Item Models.
 -   [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) - Improves the ingame HUD while riding a mount.
 -  	[CleanF3](https://modrinth.com/mod/clean-f3) - Removes useless information from the debug screen.
--  	[ClickThrough](https://modrinth.com/mod/clickthrough) - This mod helps you access containers that are marked with a sign or item frame. 
+-  	[Click Through Architectury](https://modrinth.com/mod/click-through-architectury) - Click through signs and item frames. 
 -  	[Don't Clear Chat History](https://modrinth.com/mod/dcch) - Doesn't clear the messages you've sent from up arrow on disconnect/relog.
 -  	[MoreChatHistory](https://modrinth.com/mod/morechathistory) - Increases the maximum length of chat history.
 -  	[Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard) - Screenshots taken are copied to the clipboard.
@@ -39,5 +39,6 @@
 -  	[Fabric API](https://modrinth.com/mod/fabric-api) - Essential hooks for modding with Fabric.
 -  	[Indium](https://modrinth.com/mod/indium) - Sodium addon providing support for the Fabric Rendering API, based on Indigo.
 -  	[MidnightLib](https://modrinth.com/mod/midnightlib) - Common library with a built-in configuration system.
+-   [Architectury API](https://modrinth.com/mod/architectury-api) - An intermediary api aimed to ease developing multiplatform mods.
 -   [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) - Containing shared code for masa's client-side mods.
 -   [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin/version/1.9.5+kotlin.1.8.22) - Kotlin programming language for Fabric mods.
