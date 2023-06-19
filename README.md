@@ -39,6 +39,5 @@
 -  	[Fabric API](https://modrinth.com/mod/fabric-api) - Essential hooks for modding with Fabric.
 -  	[Indium](https://modrinth.com/mod/indium) - Sodium addon providing support for the Fabric Rendering API, based on Indigo.
 -  	[MidnightLib](https://modrinth.com/mod/midnightlib) - Common library with a built-in configuration system.
--   [Architectury API](https://modrinth.com/mod/architectury-api) - An intermediary api aimed to ease developing multiplatform mods.
 -   [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) - Containing shared code for masa's client-side mods.
 -   [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin/version/1.9.5+kotlin.1.8.22) - Kotlin programming language for Fabric mods.
