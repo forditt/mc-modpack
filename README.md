@@ -1,11 +1,10 @@
-## My Minecraft Modpack 
+## My Minecraft 1.20+ Modpack 
 ### Optimization
 -   [Sodium](https://modrinth.com/mod/sodium) - Modern rendering engine and client-side optimization mod for Minecraft.
 -   [Sodium Extra](https://modrinth.com/mod/sodium-extra) - Functions that are necessary for Sodium.
 -   [Starlight](https://modrinth.com/mod/starlight) - Rewrites the light engine to fix lighting performance and lighting errors.
 -   [Lithium](https://modrinth.com/mod/lithium) - Optimizes game physics, mob AI, block ticking, etc.
 -   [LazyDFU](https://modrinth.com/mod/lazydfu) - Makes the game boot faster by deferring non-essential initialization.
--   [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric) - Improve Minecraft CPU scheduling.
 -   [C2ME](https://modrinth.com/mod/c2me-fabric) - Designed to improve the chunk performance of Minecraft.
 -   [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) - Speed up immediate mode rendering in Minecraft.
 -   [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) - Fixes random memory leaks.
