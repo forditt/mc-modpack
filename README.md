@@ -18,7 +18,7 @@
 -   [Model Gap Fix](https://modrinth.com/mod/modelfix) - Fixes gaps in Block Models and Item Models.
 -   [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) - Improves the ingame HUD while riding a mount.
 -   [CleanF3](https://modrinth.com/mod/clean-f3) - Removes useless information from the debug screen.
--   [Click Through Architectury](https://modrinth.com/mod/click-through-architectury) - Click through signs and item frames. 
+-   [ClickThrough](https://modrinth.com/mod/clickthrough) - Click through signs and item frames to chests. 
 -   [Don't Clear Chat History](https://modrinth.com/mod/dcch) - Doesn't clear the messages you've sent from up arrow on disconnect/relog.
 -   [MoreChatHistory](https://modrinth.com/mod/morechathistory) - Increases the maximum length of chat history.
 -   [Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard) - Screenshots taken are copied to the clipboard.
