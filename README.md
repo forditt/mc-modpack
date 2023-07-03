@@ -26,7 +26,6 @@
 -   [ShulkerBoxTooltip](https://modrinth.com/mod/shulkerboxtooltip) - View the contents of shulker boxes from your inventory.
 -   [Plasmo Voice](https://modrinth.com/plugin/plasmo-voice) - A proximity voice chat mod with audio positioning and lots of features.
 -   [ViaFabric](https://modrinth.com/mod/viafabric) - Allows to connect to older servers with older versions.
--   [McWifiPnp](https://modrinth.com/mod/mcwifipnp) - LAN World Plug-n-Play.
 ### Optifine Functionality
 -   [Continuity](https://modrinth.com/mod/continuity) - Mod that allows for efficient connected textures.
 -   [CIT Resewn](https://modrinth.com/mod/cit-resewn) - Re-implements MCPatcher's CIT, custom item textures from optifine resource packs.
