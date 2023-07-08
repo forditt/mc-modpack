@@ -29,6 +29,13 @@
 ### Optifine Functionality
 -   [Continuity](https://modrinth.com/mod/continuity) - Mod that allows for efficient connected textures.
 -   [CIT Resewn](https://modrinth.com/mod/cit-resewn) - Re-implements MCPatcher's CIT, custom item textures from optifine resource packs.
+-   [Enhanced Block Entities](https://modrinth.com/mod/ebe) - Reduce FPS lag with block entities, as well as customize them with resource packs.
+-   [Entity Model Features](https://modrinth.com/mod/entity-model-features) - EMF is an, OptiFine format, Custom Entity Model replacement mod.
+-   [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) - Emissive, Random & Custom texture support for entities in resourcepacks.
+-   [OptiGUI](https://modrinth.com/mod/optigui) - Custom inventory GUIs.
+-   [Animatica](https://modrinth.com/mod/animatica) - Implementing animated texture format.
+-   [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes) - Allows resource packs to define custom skyboxes.
+-   [FabricSkyBoxes Interop](https://modrinth.com/mod/fabricskyboxes-interop) - FabricSkyBoxes Interoperability for MCPatcher/OptiFine Skies.
 -   [Iris Shaders](https://modrinth.com/mod/iris) - A modern shaders mod.
 -   [Kappa](https://modrinth.com/mod/kappa) - Adds OptiFine capes to Sodium.
 ### Api and Others
