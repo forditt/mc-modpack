@@ -1,4 +1,4 @@
-## My Minecraft 1.20.1 Modpack - [Download](https://drive.google.com/drive/folders/1_aY-u-RLR2Q_uEIh7kdub8OWdHdbCKCU?usp=sharing)
+## My Minecraft 1.20.1 Modpack
 ### Optimization
 -   [Sodium](https://modrinth.com/mod/sodium) - Modern rendering engine and client-side optimization mod for Minecraft.
 -   [Sodium Extra](https://modrinth.com/mod/sodium-extra) - Functions that are necessary for Sodium.
